@@ -1,0 +1,116 @@
+[
+  {
+    "id": "1",
+    "type": "Credit",
+    "amount": 14.06,
+    "name": "Apple",
+    "description": "Card Number Used",
+    "date": "2024-04-04",
+    "pending": true,
+    "authorizedUser": "Diana",
+    "iconName": "apple",
+    "cashbackPercent": 3
+  },
+  {
+    "id": "2",
+    "type": "Payment",
+    "amount": 174.0,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank Natio...",
+    "date": "2024-04-02",
+    "pending": false,
+    "authorizedUser": null,
+    "iconName": "creditcard"
+  },
+  {
+    "id": "3",
+    "type": "Credit",
+    "amount": 3.24,
+    "name": "Apple",
+    "description": "Card Number Used",
+    "date": "2024-04-01",
+    "pending": false,
+    "authorizedUser": "Diana",
+    "iconName": "apple",
+    "cashbackPercent": 3
+  },
+  {
+    "id": "4",
+    "type": "Payment",
+    "amount": 99.71,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank Natio...",
+    "date": "2024-03-30",
+    "pending": false,
+    "authorizedUser": null,
+    "iconName": "creditcard"
+  },
+  {
+    "id": "5",
+    "type": "Payment",
+    "amount": 73.58,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank Natio...",
+    "date": "2024-03-29",
+    "pending": false,
+    "authorizedUser": null,
+    "iconName": "creditcard"
+  },
+  {
+    "id": "6",
+    "type": "Credit",
+    "amount": 21.61,
+    "name": "IKEA",
+    "description": "Round Rock, TX",
+    "date": "2024-03-22",
+    "pending": false,
+    "authorizedUser": null,
+    "iconName": "shopping-bag",
+    "cashbackPercent": 2
+  },
+  {
+    "id": "7",
+    "type": "Credit",
+    "amount": 73.58,
+    "name": "Target",
+    "description": "Cedar Hills, OR",
+    "date": "2024-03-21",
+    "pending": false,
+    "authorizedUser": null,
+    "iconName": "shopping-cart",
+    "cashbackPercent": 2
+  },
+  {
+    "id": "8",
+    "type": "Credit",
+    "amount": 45.99,
+    "name": "Amazon",
+    "description": "Online Purchase",
+    "date": "2024-03-15",
+    "pending": false,
+    "authorizedUser": null,
+    "iconName": "box"
+  },
+  {
+    "id": "9",
+    "type": "Payment",
+    "amount": 250.0,
+    "name": "Employer Direct Deposit",
+    "description": "Monthly Salary",
+    "date": "2024-03-01",
+    "pending": false,
+    "authorizedUser": null,
+    "iconName": "dollar-sign"
+  },
+  {
+    "id": "10",
+    "type": "Credit",
+    "amount": 7.5,
+    "name": "Airalo",
+    "description": "Mobile Top-up",
+    "date": "2024-02-26",
+    "pending": false,
+    "authorizedUser": null,
+    "iconName": "globe"
+  }
+]
